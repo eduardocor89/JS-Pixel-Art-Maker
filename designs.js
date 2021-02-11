@@ -1,25 +1,4 @@
 
-// I DON'T KNOW HOW TO MAKE SQUARES BUT I DO 
-// KNOW HOW TO MAKE 200 PARAGRAPHS
-
-// I DON'T KNOW HOW TO SET THE NUMBER OF SQUARES
-// TO THE RESULT OF THE SUBMIT BUTTON OF THE GRID
-
-// MAKE A <DIV> ELEMENT ? AND SET THE EVENT LISTENER
-// TO THAT <DIV> ELEMENT SO THAT EVERY LITTLE SQUARE 
-// 'INHERITS' THE EVENT LISTENER AS WE DID IN THE LAST
-// LESSON
-
-// TO ACCESS THE SUBMIT BUTTON, document.querySelector('input'whatever) or getElementById() and 
-// set that to a variable. This way you can manipulate or reuse its value 
-
-// TO ACCESS THE COLOR CHOICE, document.querySelector('color input'whatever) or getElementById()
-// and set that to a variable. This way you can manipulate it or reuse it later. 
-
-// REPEAT ABOVE CONCEPT WITH HEIGHT 
-
-// REPEAT ABOVE CONCEPT WITH WIDTH
-
 
 // Let's access each element by setting them to variables
 
