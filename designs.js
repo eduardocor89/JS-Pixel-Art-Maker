@@ -35,7 +35,7 @@ function makeGrid(inputHeight,inputWidth) {
             cell.addEventListener('click', function(event) {
                 var color = document.getElementById('colorPicker').value;
                 event.target.style.backgroundColor = color;
-                console.log('a square was clicked') // I added this to prit debug
+                console.log('a square was clicked') // I added this to print debug
             });
         }   
     }
